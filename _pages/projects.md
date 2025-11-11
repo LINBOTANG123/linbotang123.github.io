@@ -4,7 +4,7 @@ permalink: /projects/
 ---
 
 ## Emo-dynamics: Utilizing Dynamics in Selfie Videos to Capture Emotions, [Singh's CV Group](https://www.biostat.wisc.edu/~vsingh/)
-- Curating EmotionNet5k, a novel selfie video dataset containing 5000 samples of facial expressions, with over 300 stars on GitHub, expected to be published on ECCV 2024;
+- Curating EmotionNet5k, a novel selfie video dataset containing 5000 samples of facial expressions, with over 300 stars on GitHub;
 - Implementing a SOTA learnable wavelet model to remove co-founders and achieve a 3.5 % increase in accuracy on the downstream Facial Emotion Recognition (FER) task.
 ![image of xBD dataset](/assets/images/emotion.png "category theory")
 
@@ -28,9 +28,3 @@ CARLA simulated event data
 
 ![image of CARLA](/assets/images/CARLA1.png "CARLA")
 ![image of CARLA](/assets/images/CARLA2.png "CARLA")
-
-## HuBMAP + HPA: Hacking the Human Body
-- Identify and segment functional tissue units across five human organs
-- Preprocessed the FTUs dataset; developed and fine-tuned Co-Scale Cov-Attentional Image Transformers (CoaT) model to perform segmentation task
-
-![image of FTU dataset](/assets/images/FTU.png "FTU")

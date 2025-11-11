@@ -16,9 +16,9 @@
 title: LINBO's Home Page
 email: ltang67@wisc.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a junior-year B.S. student majoring in Computer Science and Data Science at the University of Wisconsin, Madison. 
-  I have a broad interest in machine learning. In particular, I work on computer vision, transfer learning, 
-  and their applications to solve real-world issues.
+  I'm a second-year S.M. student in Data Science at Harvard University, 
+  advised by Prof. Yogesh Rathi from Mass General Brigham and Prof. 
+  Todd Zickler from Harvard SEAS.
 github_username: LINBOTANG123
 minimal_mistakes_skin: dirt
 search: true
@@ -69,7 +69,7 @@ author:
       url: "https://www.linkedin.com/in/linbo-tang-612218215/"
     - label: "Resume"
       icon: "fas fa-file-pdf" # This is assuming you have a PDF icon in your FontAwesome setup
-      url: "/assets/images/Linbo_Tang_2023_Resume.pdf"
+      url: "/assets/images/resume_academics_new.pdf"
 
 
 footer:
