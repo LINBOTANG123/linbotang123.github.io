@@ -3,6 +3,9 @@ title: Experience
 permalink: /experience/
 ---
 
+## Research Student | Ubisoft, La Forge Group
+- Developed advanced computer vision models for application in game production
+
 ## Backend Developer Intern | Ivy Unify-AI, Imperial College London (Remote)
 - Developed code transpiler to convert existing code between AI frameworks by integrating ivy backend with different frameworks’ frontend APIs, including Pytorch, Tensorflow, Jax, MXnet, and Numpy
 - Worked with the research team to develop a graph compiler which decomposes the ML framework’s higher-level functions into functional APIs
@@ -14,7 +17,3 @@ permalink: /experience/
 - Self-learned MVVM architecture and applied this architecture to separate the model and view and achieved the goal of loose coupling
 
 ![image of androd studio](/assets/images/fotor.png "fotor")
-
-## Spark Global Online Teaching Program
-- Leading a teaching group of more than 200 volunteers
-- Arranging Videoconference English lessons to underserved elementary schools in China 
